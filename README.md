@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Website is hosted on Github Pages at https://2017vikkumar.github.io/Monster-Website/
+
 ## Available Scripts
 
 In the project directory, you can run:
